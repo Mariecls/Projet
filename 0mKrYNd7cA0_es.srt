@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:17,000
+...
+
+2
+00:00:17,000 --> 00:00:22,000
+François, ¿alguna vez te pusieron en una caja?
+
+3
+00:00:22,000 --> 00:00:26,000
+Ya os han dicho que sois ecológicos, cero basura,
+
+4
+00:00:26,000 --> 00:00:29,000
+minimalista, desconectado o decreciente.
+
+5
+00:00:29,000 --> 00:00:33,000
+Más extremo, retrógrado o arcaico.
+
+6
+00:00:33,000 --> 00:00:36,000
+Quizás, al contrario, seas moderna.
+
+7
+00:00:36,000 --> 00:00:38,000
+Estás buscando eficiencia.
+
+8
+00:00:38,000 --> 00:00:42,000
+Eres progresista, eficiente, aíteca y voluminista.
+
+9
+00:00:42,000 --> 00:00:45,000
+Estas casillas ayudan a todo el mundo.
+
+10
+00:00:45,000 --> 00:00:48,000
+Nos da puntos de referencia, valores, caminos.
+

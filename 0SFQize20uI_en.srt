@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:18,000
+...
+
+2
+00:00:18,000 --> 00:00:20,000
+My name is Julien Lebroton
+
+3
+00:00:20,000 --> 00:00:24,000
+And as my name does not indicate, I was born and I live in Neville-Caldenny.
+
+4
+00:00:24,000 --> 00:00:28,000
+This is Max's epitomy.
+
+5
+00:00:28,000 --> 00:00:30,000
+And here, Retidoponera.
+
+6
+00:00:30,000 --> 00:00:33,000
+They are two endemic species of ants of Neville-Caldenny.
+
+7
+00:00:33,000 --> 00:00:37,000
+I've had the chance to study ants for many years.
+
+8
+00:00:37,000 --> 00:00:41,000
+and something that fascinated me in the ants, like many of you,
+
+9
+00:00:41,000 --> 00:00:43,000
+I guess it's self-organization.
+
+10
+00:00:43,000 --> 00:00:45,000
+In ants, there's no chief.
+

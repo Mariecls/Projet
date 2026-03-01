@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:18,000
+...
+
+2
+00:00:18,000 --> 00:00:20,000
+Mi nombre es Julien Lebroton
+
+3
+00:00:20,000 --> 00:00:24,000
+Y como mi nombre no lo indica, nací y vivo en Neville-Caldenny.
+
+4
+00:00:24,000 --> 00:00:28,000
+Ahora les presento a la eptomira Max.
+
+5
+00:00:28,000 --> 00:00:30,000
+Y aquí, Retidoponera.
+
+6
+00:00:30,000 --> 00:00:33,000
+Son dos especies de hormigas endémicas de Neville-Caldenny.
+
+7
+00:00:33,000 --> 00:00:37,000
+Tuve la suerte de poder estudiar hormigas durante muchos años.
+
+8
+00:00:37,000 --> 00:00:41,000
+y algo que me fascinó en las hormigas, como muchos de ustedes,
+
+9
+00:00:41,000 --> 00:00:43,000
+Supongo que es la organización.
+
+10
+00:00:43,000 --> 00:00:45,000
+En las hormigas, no hay jefe.
+

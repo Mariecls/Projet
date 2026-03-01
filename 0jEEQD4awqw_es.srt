@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:09,599
+Para cuidar de todos, voy a hablarles de un tipo tan científico esta noche, y os voy a hablar de ello.
+
+2
+00:00:09,599 --> 00:00:13,500
+Estaba hablando de los trabajos que hacemos en el laboratorio de Facebook donde trabajo.
+
+3
+00:00:13,500 --> 00:00:17,400
+Y primero, quería empezar con un pequeño ejemplo.
+
+4
+00:00:17,400 --> 00:00:22,519
+Imagina que estás invitado a casa de los amigos, hace una noche, y llegas,
+
+5
+00:00:22,519 --> 00:00:24,039
+Pero, en realidad, no son muy videntes.
+
+6
+00:00:24,039 --> 00:00:27,960
+Se acercan a la mesa, y ahora sacan su teléfono, y llegan a
+
+7
+00:00:27,960 --> 00:00:28,960
+Tomar una foto.
+
+8
+00:00:28,960 --> 00:00:32,960
+Puedes tomar una foto.
+
+9
+00:00:32,960 --> 00:00:34,960
+Puedes tomar una foto.
+
+10
+00:00:34,960 --> 00:00:39,960
+Y ahora estás haciendo una pregunta muy simple.
+

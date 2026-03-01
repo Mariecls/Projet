@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:09,599
+For everyone's sake, I'm going to talk to you about such a scientific genre tonight, and I'm going to talk to you about it.
+
+2
+00:00:09,599 --> 00:00:13,500
+Talking about the work we're doing in Facebook's lab where I work.
+
+3
+00:00:13,500 --> 00:00:17,400
+And first, I wanted to start with a little example.
+
+4
+00:00:17,400 --> 00:00:22,519
+Imagine you're invited to the friends, there's a party, and you're coming,
+
+5
+00:00:22,519 --> 00:00:24,039
+But in fact, you're not very clear.
+
+6
+00:00:24,039 --> 00:00:27,960
+You come close to the table, and then you get your phone out, and you get to
+
+7
+00:00:27,960 --> 00:00:28,960
+Take a picture.
+
+8
+00:00:28,960 --> 00:00:32,960
+You can take a picture.
+
+9
+00:00:32,960 --> 00:00:34,960
+You can take a picture.
+
+10
+00:00:34,960 --> 00:00:39,960
+And now you're asking a very simple question.
+

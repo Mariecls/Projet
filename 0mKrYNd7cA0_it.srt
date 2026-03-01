@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:17,000
+...
+
+2
+00:00:17,000 --> 00:00:22,000
+François, sei mai stato messo in una scatola?
+
+3
+00:00:22,000 --> 00:00:26,000
+Ti hanno gia' detto che sei verde, zero rifiuti,
+
+4
+00:00:26,000 --> 00:00:29,000
+minimalista, disconnesso o decrescente.
+
+5
+00:00:29,000 --> 00:00:33,000
+Ancora più estremo, retrogrado o arcaico.
+
+6
+00:00:33,000 --> 00:00:36,000
+Forse, d'altra parte, sei moderno.
+
+7
+00:00:36,000 --> 00:00:38,000
+Stai cercando efficienza.
+
+8
+00:00:38,000 --> 00:00:42,000
+Sei progressista, stai recitando, stai innaffiando e sei rivoluzionario.
+
+9
+00:00:42,000 --> 00:00:45,000
+Queste scatole rassicurano tutti.
+
+10
+00:00:45,000 --> 00:00:48,000
+Ci dà parametri, valori, percorsi.
+

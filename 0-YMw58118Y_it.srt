@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:13,000
+...
+
+2
+00:00:13,000 --> 00:00:15,000
+Puoi dargli altro sangue?
+
+3
+00:00:15,000 --> 00:00:16,000
+Un po'.
+
+4
+00:00:16,000 --> 00:00:17,000
+Dai, dacci un po'.
+
+5
+00:00:17,000 --> 00:00:19,000
+Andiamo, mi stai facendo un po' di piu'.
+
+6
+00:00:19,000 --> 00:00:21,000
+Solo un po' di mondo.
+
+7
+00:00:30,000 --> 00:00:38,000
+...
+
+8
+00:00:38,000 --> 00:00:40,000
+Non mi piace che tu stia ascoltando.
+
+9
+00:00:40,000 --> 00:00:43,000
+Si chiama Asseifville, e' Rodolf Richfald.
+
+10
+00:00:43,000 --> 00:00:46,000
+Ma il suo rapper si chiama Neigle Ericol.
+

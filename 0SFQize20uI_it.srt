@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:18,000
+...
+
+2
+00:00:18,000 --> 00:00:20,000
+Mi chiamo Julien Lebroton.
+
+3
+00:00:20,000 --> 00:00:24,000
+E come il mio nome non indica, sono nato e vivo a Neville-Caldenny.
+
+4
+00:00:24,000 --> 00:00:28,000
+Questa e' l'epitomia di Max.
+
+5
+00:00:28,000 --> 00:00:30,000
+E qui, Retidoponera.
+
+6
+00:00:30,000 --> 00:00:33,000
+Sono due specie endemiche di formiche di Neville-Caldenny.
+
+7
+00:00:33,000 --> 00:00:37,000
+Ho avuto la possibilità di studiare formiche per molti anni.
+
+8
+00:00:37,000 --> 00:00:41,000
+e qualcosa che mi ha affascinato nelle formiche, come molti di voi,
+
+9
+00:00:41,000 --> 00:00:43,000
+Immagino sia auto-organizzazione.
+
+10
+00:00:43,000 --> 00:00:45,000
+Nelle formiche, non c'e' nessun capo.
+
