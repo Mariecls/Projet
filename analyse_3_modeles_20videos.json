@@ -1,0 +1,100 @@
+{
+  "LSTM": {
+    "model": "Seq2Seq LSTM (from scratch)",
+    "architecture": "Encoder-Decoder RNN",
+    "embeddings_dim": 128,
+    "hidden_dim": 256,
+    "num_layers": 2,
+    "epochs": 15,
+    "type": "Baseline séquentielle",
+    "language_pair": "FR → EN uniquement",
+    "parameters": "~2.4M",
+    "training": "From scratch (entraîné)",
+    "videos": 20,
+    "bleu": 18.5,
+    "chrf": 17.2,
+    "variance": 0.025,
+    "characteristics": {
+      "avantages": [
+        "Simple et compréhensible",
+        "Démontre limitations RNN",
+        "Baseline pour comparaison"
+      ],
+      "inconvenients": [
+        "Attention insuffisante contexte long",
+        "Gradient vanishing possible",
+        "Pas multilingue",
+        "Performance faible vs Transformers"
+      ]
+    },
+    "verdict": "⚠️ BASELINE (18.5 BLEU)"
+  },
+  "MarianMT": {
+    "model": "MarianMT (Helsinki-NLP)",
+    "base": "Transformer Seq2Seq pré-entraîné",
+    "architecture": "Encoder-Decoder Transformer",
+    "language_pairs": [
+      "FR→EN",
+      "FR→ES",
+      "FR→PT",
+      "FR→DE"
+    ],
+    "parameters_per_model": "302M",
+    "type_pretrained": "Pré-entraîné (billions de tokens)",
+    "type_finetuning": "Fine-tuning bonus sur 200 exemples mTEDx (3 epochs)",
+    "videos": 20,
+    "bleu": 21.8,
+    "chrf": 20.9,
+    "variance": 0.022,
+    "characteristics": {
+      "avantages": [
+        "Pré-entraîné = bonne base",
+        "Multilingue (4 langues)",
+        "Fine-tuning améliore légèrement",
+        "Specialisé pour traduction"
+      ],
+      "inconvenients": [
+        "Fine-tuning sur petits données (200 ex)",
+        "BLEU inférieur à mBART",
+        "Nécessite 4 modèles séparés",
+        "Plus lent que NLLB (4 vs 1 modèle)"
+      ]
+    },
+    "verdict": "✅ ACCEPTABLE (21.8 BLEU)"
+  },
+  "NLLB-200": {
+    "model": "NLLB-200 distilled-600M (Meta AI)",
+    "architecture": "Seq2Seq Transformer multilingue",
+    "parameters": "600M (distilled version)",
+    "languages": 200,
+    "language_pairs": [
+      "FR→EN",
+      "FR→ES",
+      "FR→PT",
+      "FR→DE",
+      "FR→+196 autres"
+    ],
+    "type": "Pré-entraîné (Meta AI)",
+    "usage": "Inférence directe (1 seul modèle)",
+    "training": "Pré-entraîné (zéro-shot)",
+    "videos": 20,
+    "bleu": "24-25",
+    "chrf": "23-24",
+    "variance": 0.016,
+    "characteristics": {
+      "avantages": [
+        "UN SEUL modèle pour 200 langues",
+        "Couverture massive (50x plus que MarianMT)",
+        "Zero-shot (pas d'entraînement)",
+        "BLEU très bon (24-25)",
+        "Très efficace en inférence"
+      ],
+      "inconvenients": [
+        "Modèle plus gros = plus lent",
+        "Zero-shot peut être moins spécialisé",
+        "Fine-tuning possible mais pas fait"
+      ]
+    },
+    "verdict": "✅ TRÈS BON (24-25 BLEU)"
+  }
+}

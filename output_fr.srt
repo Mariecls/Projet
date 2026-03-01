@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:15,000
+Bonjour et bienvenue dans cette présentation sur l'inteligence artificielle.
+
+2
+00:00:15,000 --> 00:00:30,000
+Les réseaux de neurones profonds ont révolutionné le traitement du langage naturel.
+
+3
+00:00:30,000 --> 00:00:45,000
+Cette transcription contient des chiffres comme vingt-vingt-quatre et noms propres: Pierre, Fransse, Paris.
+
+4
+00:00:45,000 --> 00:00:60,000
+Les modèles de traduction automatique avec mécanisme d'attention offrent des résultats supérieurs.
+
+5
+00:00:60,000 --> 00:00:75,000
+Le bruit environnemental peut affecter significativement la qualité de reconnaissance vocale.
+
+6
+00:00:75,000 --> 00:00:90,000
+Nous comparons trois approches: LSTM Seq2Seq baseline, MarianMT Transformer, et NLLB-200 multilingue.
+
+7
+00:00:90,000 --> 00:00:105,000
+Les métriques BLEU, chrF et COMET permettent d'évaluer objectivement la qualité des traductions.
+
+8
+00:00:105,000 --> 00:00:120,000
+Les erreurs de cascade (ASR→NMT) propagent les erreurs de la première étape vers la deuxième étape.
+
+9
+00:00:120,000 --> 00:00:135,000
+La tokenisation subword BPE permet de gérer efficacement un vocabulaire riche et des mots rares.
+
+10
+00:00:135,000 --> 00:00:150,000
+Les modèles massivement multilingues comme NLLB-200 supportent plus de 200 langues différentes.
+

@@ -1,0 +1,38 @@
+{
+  "evaluation": {
+    "methodology": "BLEU simple (n-gram overlap avec brevity penalty)",
+    "reference_source": "mTEDx test set (official reference)",
+    "segments_evaluated": 100
+  },
+  "fr_en_direct": {
+    "mean_bleu": 1.6946795990849401,
+    "std_bleu": 2.5363071702835556,
+    "min_bleu": 0.0,
+    "max_bleu": 12.5,
+    "note": "VRAIS SCORES basés sur référence mTEDx officielle"
+  },
+  "fr_es_direct": {
+    "mean_bleu": 1.542066426810792,
+    "std_bleu": 2.5999371457122633,
+    "min_bleu": 0.0,
+    "max_bleu": 11.11111111111111,
+    "segments_evaluated": 100,
+    "note": "VRAIS SCORES basés sur référence mTEDx officielle"
+  },
+  "en_it_pivot": {
+    "mean_bleu": 1.0078500562627446,
+    "std_bleu": 1.9781265115200153,
+    "min_bleu": 0.0,
+    "max_bleu": 10.0,
+    "segments_evaluated": 100,
+    "note": "VRAIS SCORES basé sur référence mTEDx (PIVOT: FR→EN→IT)"
+  },
+  "en_ru_pivot": {
+    "mean_bleu": 0.6670506974106045,
+    "std_bleu": 1.7728830977100118,
+    "min_bleu": 0.0,
+    "max_bleu": 7.142857142857144,
+    "segments_evaluated": 100,
+    "note": "VRAIS SCORES basé sur référence mTEDx (PIVOT: FR→EN→RU)"
+  }
+}
