@@ -1,0 +1,405 @@
+{
+  "total_videos": 50,
+  "videos": {
+    "0-DmpK7Di0c_en": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0-DmpK7Di0c_en_direct.srt"
+      }
+    },
+    "0-DmpK7Di0c_es": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0-DmpK7Di0c_es_direct.srt"
+      }
+    },
+    "0-DmpK7Di0c": {
+      "languages": [
+        "fr"
+      ],
+      "files": {
+        "fr": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0-DmpK7Di0c_fr.srt"
+      }
+    },
+    "0-DmpK7Di0c_it": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0-DmpK7Di0c_it_pivot.srt"
+      }
+    },
+    "0-DmpK7Di0c_ru": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0-DmpK7Di0c_ru_pivot.srt"
+      }
+    },
+    "0-YMw58118Y_en": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0-YMw58118Y_en_direct.srt"
+      }
+    },
+    "0-YMw58118Y_es": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0-YMw58118Y_es_direct.srt"
+      }
+    },
+    "0-YMw58118Y": {
+      "languages": [
+        "fr"
+      ],
+      "files": {
+        "fr": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0-YMw58118Y_fr.srt"
+      }
+    },
+    "0-YMw58118Y_it": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0-YMw58118Y_it_pivot.srt"
+      }
+    },
+    "0-YMw58118Y_ru": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0-YMw58118Y_ru_pivot.srt"
+      }
+    },
+    "09UU0I9gLNc_en": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\09UU0I9gLNc_en_direct.srt"
+      }
+    },
+    "09UU0I9gLNc_es": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\09UU0I9gLNc_es_direct.srt"
+      }
+    },
+    "09UU0I9gLNc": {
+      "languages": [
+        "fr"
+      ],
+      "files": {
+        "fr": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\09UU0I9gLNc_fr.srt"
+      }
+    },
+    "09UU0I9gLNc_it": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\09UU0I9gLNc_it_pivot.srt"
+      }
+    },
+    "09UU0I9gLNc_ru": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\09UU0I9gLNc_ru_pivot.srt"
+      }
+    },
+    "0E8rHu2EYzU_en": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0E8rHu2EYzU_en_direct.srt"
+      }
+    },
+    "0E8rHu2EYzU_es": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0E8rHu2EYzU_es_direct.srt"
+      }
+    },
+    "0E8rHu2EYzU": {
+      "languages": [
+        "fr"
+      ],
+      "files": {
+        "fr": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0E8rHu2EYzU_fr.srt"
+      }
+    },
+    "0E8rHu2EYzU_it": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0E8rHu2EYzU_it_pivot.srt"
+      }
+    },
+    "0E8rHu2EYzU_ru": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0E8rHu2EYzU_ru_pivot.srt"
+      }
+    },
+    "0f3osSBA9-c_en": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0f3osSBA9-c_en_direct.srt"
+      }
+    },
+    "0f3osSBA9-c_es": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0f3osSBA9-c_es_direct.srt"
+      }
+    },
+    "0f3osSBA9-c": {
+      "languages": [
+        "fr"
+      ],
+      "files": {
+        "fr": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0f3osSBA9-c_fr.srt"
+      }
+    },
+    "0f3osSBA9-c_it": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0f3osSBA9-c_it_pivot.srt"
+      }
+    },
+    "0f3osSBA9-c_ru": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0f3osSBA9-c_ru_pivot.srt"
+      }
+    },
+    "0jEEQD4awqw_en": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0jEEQD4awqw_en_direct.srt"
+      }
+    },
+    "0jEEQD4awqw_es": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0jEEQD4awqw_es_direct.srt"
+      }
+    },
+    "0jEEQD4awqw": {
+      "languages": [
+        "fr"
+      ],
+      "files": {
+        "fr": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0jEEQD4awqw_fr.srt"
+      }
+    },
+    "0jEEQD4awqw_it": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0jEEQD4awqw_it_pivot.srt"
+      }
+    },
+    "0jEEQD4awqw_ru": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0jEEQD4awqw_ru_pivot.srt"
+      }
+    },
+    "0kC2rok1Wp8_en": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0kC2rok1Wp8_en_direct.srt"
+      }
+    },
+    "0kC2rok1Wp8_es": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0kC2rok1Wp8_es_direct.srt"
+      }
+    },
+    "0kC2rok1Wp8": {
+      "languages": [
+        "fr"
+      ],
+      "files": {
+        "fr": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0kC2rok1Wp8_fr.srt"
+      }
+    },
+    "0kC2rok1Wp8_it": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0kC2rok1Wp8_it_pivot.srt"
+      }
+    },
+    "0kC2rok1Wp8_ru": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0kC2rok1Wp8_ru_pivot.srt"
+      }
+    },
+    "0mKrYNd7cA0_en": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0mKrYNd7cA0_en_direct.srt"
+      }
+    },
+    "0mKrYNd7cA0_es": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0mKrYNd7cA0_es_direct.srt"
+      }
+    },
+    "0mKrYNd7cA0": {
+      "languages": [
+        "fr"
+      ],
+      "files": {
+        "fr": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0mKrYNd7cA0_fr.srt"
+      }
+    },
+    "0mKrYNd7cA0_it": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0mKrYNd7cA0_it_pivot.srt"
+      }
+    },
+    "0mKrYNd7cA0_ru": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0mKrYNd7cA0_ru_pivot.srt"
+      }
+    },
+    "0SFQize20uI_en": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0SFQize20uI_en_direct.srt"
+      }
+    },
+    "0SFQize20uI_es": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0SFQize20uI_es_direct.srt"
+      }
+    },
+    "0SFQize20uI": {
+      "languages": [
+        "fr"
+      ],
+      "files": {
+        "fr": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0SFQize20uI_fr.srt"
+      }
+    },
+    "0SFQize20uI_it": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0SFQize20uI_it_pivot.srt"
+      }
+    },
+    "0SFQize20uI_ru": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0SFQize20uI_ru_pivot.srt"
+      }
+    },
+    "0u7tTptBo9I_en": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0u7tTptBo9I_en_direct.srt"
+      }
+    },
+    "0u7tTptBo9I_es": {
+      "languages": [
+        "direct"
+      ],
+      "files": {
+        "direct": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0u7tTptBo9I_es_direct.srt"
+      }
+    },
+    "0u7tTptBo9I": {
+      "languages": [
+        "fr"
+      ],
+      "files": {
+        "fr": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0u7tTptBo9I_fr.srt"
+      }
+    },
+    "0u7tTptBo9I_it": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0u7tTptBo9I_it_pivot.srt"
+      }
+    },
+    "0u7tTptBo9I_ru": {
+      "languages": [
+        "pivot"
+      ],
+      "files": {
+        "pivot": "C:\\Users\\marie\\Documents\\Deeplearning\\Projet\\outputs\\srt\\0u7tTptBo9I_ru_pivot.srt"
+      }
+    }
+  }
+}

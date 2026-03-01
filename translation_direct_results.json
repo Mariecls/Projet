@@ -1,0 +1,822 @@
+{
+  "0-DmpK7Di0c": {
+    "0": {
+      "fr": "Je vais partager avec vous en français ma passion, l'aéronautique.",
+      "time": "0.0-13.0s",
+      "translations": {
+        "en": "I will share with you in French my passion, aeronautics.",
+        "es": "Voy a compartir con usted en francés mi pasión, la aeronáutica."
+      }
+    },
+    "1": {
+      "fr": "Tout ceci commence par une anecdote trop blande qui m'est arrivé il y a quelques années.",
+      "time": "13.0-19.0s",
+      "translations": {
+        "en": "All of this starts with an overly bland anecdote that happened to me a few years ago.",
+        "es": "Todo esto comienza con una anécdota demasiado blandida que me pasó hace unos años."
+      }
+    },
+    "2": {
+      "fr": "Lorsque un ami me contacta, étant passionné des viations et ébident en Toulouse,",
+      "time": "19.0-26.0s",
+      "translations": {
+        "en": "When a friend contacted me, being passionate about viations and ebident in Toulouse,",
+        "es": "Cuando un amigo me contactó, siendo apasionado de las vias y ebiendente en Toulouse,"
+      }
+    },
+    "3": {
+      "fr": "il avait trouvé des pièces d'avions dans la terre au sud de Toulouse et il menait de l'identifier.",
+      "time": "26.0-31.0s",
+      "translations": {
+        "en": "He had found pieces of aircraft in the land south of Toulouse and led to his identification.",
+        "es": "Había encontrado piezas de aviones en la tierra al sur de Toulouse y estaba tratando de identificarlo."
+      }
+    },
+    "4": {
+      "fr": "J'ai mis des photos de ces pièces sur un site internet spécialisé, rapidement les réponses arrivaire.",
+      "time": "31.0-39.0s",
+      "translations": {
+        "en": "I put photos of these pieces on a specialized website, quickly the answers arrived.",
+        "es": "Puse fotos de estas piezas en un sitio web especializado, rápidamente las respuestas a la llegada."
+      }
+    },
+    "5": {
+      "fr": "Ce sont des pièces d'un avion anglais et d'autres réponses suivirent.",
+      "time": "39.0-44.0s",
+      "translations": {
+        "en": "These are parts of an English plane and other answers followed.",
+        "es": "Estas son piezas de un avión inglés y otras respuestas siguieron."
+      }
+    },
+    "6": {
+      "fr": "C'est un avril en castère, un bombardier anglais quadrimoteur, qui en 1944, fut battu au sud de Toulouse.",
+      "time": "44.0-52.0s",
+      "translations": {
+        "en": "It was an April in caster, an English four-engine bomber, who in 1944 was beaten south of Toulouse.",
+        "es": "Es un abril en casterio, un bombardero inglés cuatrimotor, que en 1944, fue golpeado al sur de Toulouse."
+      }
+    },
+    "7": {
+      "fr": "La personne avec qui j'étais en relation me mis en contact avec une retraitée, Arlette,",
+      "time": "53.0-59.0s",
+      "translations": {
+        "en": "The person I was in contact with puts me in contact with a retired woman, Arlette,",
+        "es": "La persona con la que estaba en contacto me puso en contacto con una jubilada, Arlette,"
+      }
+    },
+    "8": {
+      "fr": "qui connaissait très bien l'histoire de cet avion.",
+      "time": "59.0-61.0s",
+      "translations": {
+        "en": "who knew the story of this plane very well.",
+        "es": "Que conocía muy bien la historia de ese avión."
+      }
+    },
+    "9": {
+      "fr": "Arlette me racontait qu'elle s'était occupée d'accueillir les familles des membres d'équipages de cet avion anglais,",
+      "time": "61.0-68.0s",
+      "translations": {
+        "en": "Arlette told me that she had taken care of welcoming the families of the crew members of this English plane,",
+        "es": "Arlette me contó que se había encargado de recibir a las familias de los miembros de la tripulación de ese avión inglés,"
+      }
+    }
+  },
+  "0-YMw58118Y": {
+    "0": {
+      "fr": "...",
+      "time": "0.0-13.0s",
+      "translations": {
+        "en": "...",
+        "es": "..."
+      }
+    },
+    "1": {
+      "fr": "Tu peux le naître plus de sang ?",
+      "time": "13.0-15.0s",
+      "translations": {
+        "en": "Can you give him more blood?",
+        "es": "¿Puedes darle más sangre?"
+      }
+    },
+    "2": {
+      "fr": "Un petit peu.",
+      "time": "15.0-16.0s",
+      "translations": {
+        "en": "A little bit.",
+        "es": "Un poco."
+      }
+    },
+    "3": {
+      "fr": "Allez, donne un petit peu.",
+      "time": "16.0-17.0s",
+      "translations": {
+        "en": "Come on, give it a little.",
+        "es": "Vamos, dame un poco."
+      }
+    },
+    "4": {
+      "fr": "Allez, tu m'en fais un petit d'encore.",
+      "time": "17.0-19.0s",
+      "translations": {
+        "en": "Come on, you're making me a little more.",
+        "es": "Vamos, me haces uno de nuevo."
+      }
+    },
+    "5": {
+      "fr": "Juste un petit monde.",
+      "time": "19.0-21.0s",
+      "translations": {
+        "en": "Just a little world.",
+        "es": "Sólo un pequeño mundo."
+      }
+    },
+    "6": {
+      "fr": "...",
+      "time": "30.0-38.0s",
+      "translations": {
+        "en": "...",
+        "es": "..."
+      }
+    },
+    "7": {
+      "fr": "Je n'aime que vous entendez là.",
+      "time": "38.0-40.0s",
+      "translations": {
+        "en": "I don't like you hearing there.",
+        "es": "No me gusta que oigas eso."
+      }
+    },
+    "8": {
+      "fr": "Son nom est Asseifville, c'est Rodolf Richfald.",
+      "time": "40.0-43.0s",
+      "translations": {
+        "en": "His name is Asseifville, it's Rodolf Richfald.",
+        "es": "Se llama Asseifville, es Rodolf Richfald."
+      }
+    },
+    "9": {
+      "fr": "Mais son nom de rappeur, c'est Neigle Ericol.",
+      "time": "43.0-46.0s",
+      "translations": {
+        "en": "But his rapper name is Neigle Ericol.",
+        "es": "Pero su nombre de rapero es Neigle Ericol."
+      }
+    }
+  },
+  "09UU0I9gLNc": {
+    "0": {
+      "fr": "...",
+      "time": "0.0-11.0s",
+      "translations": {
+        "en": "...",
+        "es": "..."
+      }
+    },
+    "1": {
+      "fr": "Je suis stressée.",
+      "time": "11.0-12.8s",
+      "translations": {
+        "en": "I'm stressed.",
+        "es": "Estoy estresada."
+      }
+    },
+    "2": {
+      "fr": "Je n'ai pas dormi de l'année.",
+      "time": "12.8-15.4s",
+      "translations": {
+        "en": "I haven't slept all year.",
+        "es": "No he dormido en todo el año."
+      }
+    },
+    "3": {
+      "fr": "C'est la dernière plongée de ma saison",
+      "time": "15.4-17.6s",
+      "translations": {
+        "en": "It's the last dive of my season.",
+        "es": "Es el último buceo de mi temporada."
+      }
+    },
+    "4": {
+      "fr": "et je sens qu'elle va être déterminante pour la suite.",
+      "time": "17.6-21.4s",
+      "translations": {
+        "en": "and I feel that it will be decisive for the future.",
+        "es": "Y siento que va a ser decisiva para el futuro."
+      }
+    },
+    "5": {
+      "fr": "On est début octobre.",
+      "time": "21.4-23.6s",
+      "translations": {
+        "en": "It's early October.",
+        "es": "A principios de octubre."
+      }
+    },
+    "6": {
+      "fr": "Je suis au championnat du monde en Turquie.",
+      "time": "23.6-26.4s",
+      "translations": {
+        "en": "I'm at the World Championship in Turkey.",
+        "es": "Estoy en el campeonato del mundo en Turquía."
+      }
+    },
+    "7": {
+      "fr": "Mais pensez-fus en tous les sens mon cœur bas à 100 à l'heure",
+      "time": "27.4-32.4s",
+      "translations": {
+        "en": "But think-fus in all senses my heart low to 100 an hour",
+        "es": "Pero piensa en todos los sentidos mi corazón baja a 100 por hora"
+      }
+    },
+    "8": {
+      "fr": "et je me demande bien ce que je fais ici.",
+      "time": "32.4-35.4s",
+      "translations": {
+        "en": "And I wonder what I'm doing here.",
+        "es": "Y me pregunto qué hago aquí."
+      }
+    },
+    "9": {
+      "fr": "Allongé sur le dos, flotant à la surface de l'eau.",
+      "time": "35.4-40.4s",
+      "translations": {
+        "en": "Lying on the back, floating on the surface of the water.",
+        "es": "Acostado en la espalda, flotando en la superficie del agua."
+      }
+    }
+  },
+  "0E8rHu2EYzU": {
+    "0": {
+      "fr": "Je vais vous parler d'un pastisse qui a changé ma vie, d'un vélo et d'un trésor qui",
+      "time": "0.0-16.5s",
+      "translations": {
+        "en": "I'll tell you about a pastisse that changed my life, a bike and a treasure that",
+        "es": "Te hablaré de un pastel que cambió mi vida, de una bicicleta y de un tesoro que"
+      }
+    },
+    "1": {
+      "fr": "dort sous nos pieds.",
+      "time": "16.5-18.3s",
+      "translations": {
+        "en": "sleeps under our feet.",
+        "es": "Duerme bajo nuestros pies."
+      }
+    },
+    "2": {
+      "fr": "Un vaste programme avec beaucoup d'éléments, je le conçoit, mais tous ces éléments",
+      "time": "18.3-23.8s",
+      "translations": {
+        "en": "A vast program with a lot of elements, I imagine, but all these elements",
+        "es": "Un amplio programa con muchos elementos, lo concedo, pero todos estos elementos"
+      }
+    },
+    "3": {
+      "fr": "s'embrickent dans une histoire et cette histoire, je vais vous la raconter.",
+      "time": "23.8-27.3s",
+      "translations": {
+        "en": "I'm going to tell you.",
+        "es": "Se enredan en una historia y esta historia, se la voy a contar."
+      }
+    },
+    "4": {
+      "fr": "En 2013, l'obtention du bac devant moi, c'est le vide.",
+      "time": "27.3-32.3s",
+      "translations": {
+        "en": "In 2013, getting the baccalaureate in front of me is empty.",
+        "es": "En 2013, la obtención del bachillerato delante de mí, es el vacío."
+      }
+    },
+    "5": {
+      "fr": "Comme la plupart de mes camarades, je ne suis animé par aucune passion universitaire,",
+      "time": "32.3-37.2s",
+      "translations": {
+        "en": "Like most of my comrades, I am not driven by any academic passion,",
+        "es": "Como la mayoría de mis compañeros, no estoy animado por ninguna pasión universitaria,"
+      }
+    },
+    "6": {
+      "fr": "aucun métier de matière et la vie d'adulte me terrifie.",
+      "time": "37.2-41.5s",
+      "translations": {
+        "en": "I'm terrified of any trade in matter and adult life.",
+        "es": "No hay trabajo en la materia y la vida adulta me aterroriza."
+      }
+    },
+    "7": {
+      "fr": "Lorsque je choisis la faculté de biologie, je le fais parce que ça a côté de chez moi",
+      "time": "41.5-46.9s",
+      "translations": {
+        "en": "When I choose the faculty of biology, I do it because it's next to my home.",
+        "es": "Cuando elijo la facultad de biología, lo hago porque está al lado de mi casa."
+      }
+    },
+    "8": {
+      "fr": "avec sa mère super chouette d'être étudiant.",
+      "time": "46.9-48.5s",
+      "translations": {
+        "en": "With his great mom being a student.",
+        "es": "Con su madre muy guapa de ser estudiante."
+      }
+    },
+    "9": {
+      "fr": "Je ne l'ai pas été sûr.",
+      "time": "48.5-58.5s",
+      "translations": {
+        "en": "I wasn't sure.",
+        "es": "No estaba seguro."
+      }
+    }
+  },
+  "0f3osSBA9-c": {
+    "0": {
+      "fr": "Je suis chère, chœur, avec les hyper et comme des vagues avec des élanques et des",
+      "time": "0.0-14.5s",
+      "translations": {
+        "en": "I'm expensive, chorus, with hypers and like waves with slenders and",
+        "es": "Soy querida, coro, con los hiper y como olas con alces y"
+      }
+    },
+    "1": {
+      "fr": "races de recours.",
+      "time": "14.5-15.5s",
+      "translations": {
+        "en": "This is a race of recourse.",
+        "es": "Razas de recurso."
+      }
+    },
+    "2": {
+      "fr": "En fin, je vous ai mis question à la minute et mon bel parfois vous ne répose, me disait,",
+      "time": "15.5-21.8s",
+      "translations": {
+        "en": "In the end, I asked you at the minute and my beau sometimes you don't answer, told me,",
+        "es": "Al final, te pregunté por un minuto y a veces mi guapo no te deja descansar, me decía,"
+      }
+    },
+    "3": {
+      "fr": "si on te demande, tu dirais à tu ces pas, j'étais débité, je ne sais pas, mais",
+      "time": "21.8-25.3s",
+      "translations": {
+        "en": "If you're asked, you'd tell you those steps, I've been bitten, I don't know, but",
+        "es": "Si alguien te pregunta, le dirías a esos pasos, yo estaba arruinado, no lo sé, pero"
+      }
+    },
+    "4": {
+      "fr": "vu ce que je m'arrênais dit.",
+      "time": "25.3-26.3s",
+      "translations": {
+        "en": "Seeing what I was saying.",
+        "es": "En vista de lo que estaba diciendo."
+      }
+    },
+    "5": {
+      "fr": "A la connaissance, j'ai débattu en jeu politique et en société citer.",
+      "time": "27.3-32.3s",
+      "translations": {
+        "en": "To the knowledge, I have debated in politics and society.",
+        "es": "Por lo que sé, he discutido en el juego político y en la sociedad citar."
+      }
+    },
+    "6": {
+      "fr": "Je n'adulte, j'ai bougé, exploré, dansé, voyagé, mais aussi la vie et la mort et la maladie",
+      "time": "32.3-41.6s",
+      "translations": {
+        "en": "I did not grow up, I moved, I explored, danced, traveled, but also life and death and illness",
+        "es": "Yo no soy adulto, me moví, exploré, bailé, viajé, pero también la vida y la muerte y la enfermedad"
+      }
+    },
+    "7": {
+      "fr": "avec mes études de s'achemes.",
+      "time": "41.6-42.8s",
+      "translations": {
+        "en": "with my studies of completing.",
+        "es": "Con mis estudios de aprendizaje."
+      }
+    },
+    "8": {
+      "fr": "J'ai rencontré des personnes précieuses qui ont attisé ma curiosité.",
+      "time": "42.8-46.3s",
+      "translations": {
+        "en": "I've met some precious people who have stirred up my curiosity.",
+        "es": "Conocí a personas valiosas que avivaron mi curiosidad."
+      }
+    },
+    "9": {
+      "fr": "Un jour, une belle s'achemme ma vie.",
+      "time": "46.3-48.7s",
+      "translations": {
+        "en": "One day, a beautiful one is ruining my life.",
+        "es": "Algún día, una hermosa se arruina mi vida."
+      }
+    }
+  },
+  "0jEEQD4awqw": {
+    "0": {
+      "fr": "Pour soin à tous, je vais vous parler d'un tel genre scientifiqueel ce soir, et je vous",
+      "time": "0.0-9.6s",
+      "translations": {
+        "en": "For everyone's sake, I'm going to talk to you about such a scientific genre tonight, and I'm going to talk to you about it.",
+        "es": "Para cuidar de todos, voy a hablarles de un tipo tan científico esta noche, y os voy a hablar de ello."
+      }
+    },
+    "1": {
+      "fr": "parlais des travaux qu'on fait dans le laboratoire de Facebook où je travaille.",
+      "time": "9.6-13.5s",
+      "translations": {
+        "en": "Talking about the work we're doing in Facebook's lab where I work.",
+        "es": "Estaba hablando de los trabajos que hacemos en el laboratorio de Facebook donde trabajo."
+      }
+    },
+    "2": {
+      "fr": "Et d'abord, je voulais commencer par un petit exemple.",
+      "time": "13.5-17.4s",
+      "translations": {
+        "en": "And first, I wanted to start with a little example.",
+        "es": "Y primero, quería empezar con un pequeño ejemplo."
+      }
+    },
+    "3": {
+      "fr": "Imaginez que vous êtes invité chez les amis, il y a une soirée, et vous arrivez,",
+      "time": "17.4-22.5s",
+      "translations": {
+        "en": "Imagine you're invited to the friends, there's a party, and you're coming,",
+        "es": "Imagina que estás invitado a casa de los amigos, hace una noche, y llegas,"
+      }
+    },
+    "4": {
+      "fr": "mais en fait, vous êtes mal voyants.",
+      "time": "22.5-24.0s",
+      "translations": {
+        "en": "But in fact, you're not very clear.",
+        "es": "Pero, en realidad, no son muy videntes."
+      }
+    },
+    "5": {
+      "fr": "Vous approchez de la table, et là, vous sortez votre téléphone, et vous arrivez à",
+      "time": "24.0-28.0s",
+      "translations": {
+        "en": "You come close to the table, and then you get your phone out, and you get to",
+        "es": "Se acercan a la mesa, y ahora sacan su teléfono, y llegan a"
+      }
+    },
+    "6": {
+      "fr": "prendre une photo.",
+      "time": "28.0-29.0s",
+      "translations": {
+        "en": "Take a picture.",
+        "es": "Tomar una foto."
+      }
+    },
+    "7": {
+      "fr": "Vous arrivez à prendre une photo.",
+      "time": "29.0-33.0s",
+      "translations": {
+        "en": "You can take a picture.",
+        "es": "Puedes tomar una foto."
+      }
+    },
+    "8": {
+      "fr": "Vous arrivez à prendre une photo.",
+      "time": "33.0-35.0s",
+      "translations": {
+        "en": "You can take a picture.",
+        "es": "Puedes tomar una foto."
+      }
+    },
+    "9": {
+      "fr": "Et là, vous posez une question très simple.",
+      "time": "35.0-40.0s",
+      "translations": {
+        "en": "And now you're asking a very simple question.",
+        "es": "Y ahora estás haciendo una pregunta muy simple."
+      }
+    }
+  },
+  "0kC2rok1Wp8": {
+    "0": {
+      "fr": "GEYOPHIDE",
+      "time": "0.0-1.9s",
+      "translations": {
+        "en": "GEYOPHIDE",
+        "es": "GEYOPHIDE"
+      }
+    },
+    "1": {
+      "fr": "B removing Green ВладIÓ coupe",
+      "time": "25.3-29.4s",
+      "translations": {
+        "en": "B removing Green",
+        "es": "B removing Green ВладIÓ couple"
+      }
+    },
+    "2": {
+      "fr": "Pas au moins la télé quand même.",
+      "time": "30.0-31.4s",
+      "translations": {
+        "en": "Not at least the TV anyway.",
+        "es": "Bueno, al menos no la TV."
+      }
+    },
+    "3": {
+      "fr": "On est hypes, quoi.",
+      "time": "32.4-33.4s",
+      "translations": {
+        "en": "We're hypes.",
+        "es": "Estamos hippies."
+      }
+    },
+    "4": {
+      "fr": "Moi j'ai toujours voulu être un super héros.",
+      "time": "35.3-37.3s",
+      "translations": {
+        "en": "I always wanted to be a superhero.",
+        "es": "Siempre quise ser un superhéroe."
+      }
+    },
+    "5": {
+      "fr": "C'est un rêve de grosses.",
+      "time": "38.4-39.6s",
+      "translations": {
+        "en": "It's a big dream.",
+        "es": "Es un sueño de gordas."
+      }
+    },
+    "6": {
+      "fr": "Superman.",
+      "time": "41.1-42.1s",
+      "translations": {
+        "en": "Superman.",
+        "es": "Superman."
+      }
+    },
+    "7": {
+      "fr": "Batman.",
+      "time": "43.4-44.2s",
+      "translations": {
+        "en": "Batman.",
+        "es": "Batman."
+      }
+    },
+    "8": {
+      "fr": "Spider-Man.",
+      "time": "45.9-46.9s",
+      "translations": {
+        "en": "Spider-Man.",
+        "es": "Spider-Man."
+      }
+    },
+    "9": {
+      "fr": "A le costume c'est un truc qui fait arriver.",
+      "time": "50.0-51.8s",
+      "translations": {
+        "en": "In the suit, it's something that makes you happen.",
+        "es": "El traje es algo que ocurre."
+      }
+    }
+  },
+  "0mKrYNd7cA0": {
+    "0": {
+      "fr": "...",
+      "time": "0.0-17.0s",
+      "translations": {
+        "en": "...",
+        "es": "..."
+      }
+    },
+    "1": {
+      "fr": "François, vous avez déjà été mis dans une case, vous?",
+      "time": "17.0-22.0s",
+      "translations": {
+        "en": "François, have you ever been put in a box?",
+        "es": "François, ¿alguna vez te pusieron en una caja?"
+      }
+    },
+    "2": {
+      "fr": "On vous a déjà dit que vous étiez écolos, zéro déchet,",
+      "time": "22.0-26.0s",
+      "translations": {
+        "en": "You've already been told that you're green, zero waste,",
+        "es": "Ya os han dicho que sois ecológicos, cero basura,"
+      }
+    },
+    "3": {
+      "fr": "minimaliste, déconnecté ou décroissant.",
+      "time": "26.0-29.0s",
+      "translations": {
+        "en": "minimalist, disconnected or decreasing.",
+        "es": "minimalista, desconectado o decreciente."
+      }
+    },
+    "4": {
+      "fr": "Plus extrême encore, retrograde ou archaïque.",
+      "time": "29.0-33.0s",
+      "translations": {
+        "en": "Even more extreme, retrograde or archaic.",
+        "es": "Más extremo, retrógrado o arcaico."
+      }
+    },
+    "5": {
+      "fr": "Peut-être qu'à l'inverse, vous êtes moderne.",
+      "time": "33.0-36.0s",
+      "translations": {
+        "en": "Maybe, on the other hand, you are modern.",
+        "es": "Quizás, al contrario, seas moderna."
+      }
+    },
+    "6": {
+      "fr": "Vous recherchez l'efficacité.",
+      "time": "36.0-38.0s",
+      "translations": {
+        "en": "You're looking for efficiency.",
+        "es": "Estás buscando eficiencia."
+      }
+    },
+    "7": {
+      "fr": "Vous êtes progressiste, performant, aïtèque et volutionniste.",
+      "time": "38.0-42.0s",
+      "translations": {
+        "en": "You're progressive, you're performing, you're watering and you're revolutionist.",
+        "es": "Eres progresista, eficiente, aíteca y voluminista."
+      }
+    },
+    "8": {
+      "fr": "Ces cases rassurent tout le monde.",
+      "time": "42.0-45.0s",
+      "translations": {
+        "en": "These boxes reassure everyone.",
+        "es": "Estas casillas ayudan a todo el mundo."
+      }
+    },
+    "9": {
+      "fr": "Ça nous donne des repères, des valeurs, des chemins",
+      "time": "45.0-48.0s",
+      "translations": {
+        "en": "It gives us benchmarks, values, paths.",
+        "es": "Nos da puntos de referencia, valores, caminos."
+      }
+    }
+  },
+  "0SFQize20uI": {
+    "0": {
+      "fr": "...",
+      "time": "0.0-18.0s",
+      "translations": {
+        "en": "...",
+        "es": "..."
+      }
+    },
+    "1": {
+      "fr": "Je m'appelle Julien Lebroton",
+      "time": "18.0-20.0s",
+      "translations": {
+        "en": "My name is Julien Lebroton",
+        "es": "Mi nombre es Julien Lebroton"
+      }
+    },
+    "2": {
+      "fr": "et comme mon nom ne l'indique pas, je suis né et j'habite en Neville-Caldenny.",
+      "time": "20.0-24.0s",
+      "translations": {
+        "en": "And as my name does not indicate, I was born and I live in Neville-Caldenny.",
+        "es": "Y como mi nombre no lo indica, nací y vivo en Neville-Caldenny."
+      }
+    },
+    "3": {
+      "fr": "Là, je vous présente l'éptomire Max",
+      "time": "24.0-28.0s",
+      "translations": {
+        "en": "This is Max's epitomy.",
+        "es": "Ahora les presento a la eptomira Max."
+      }
+    },
+    "4": {
+      "fr": "et ici, Rétidoponéra.",
+      "time": "28.0-30.0s",
+      "translations": {
+        "en": "And here, Retidoponera.",
+        "es": "Y aquí, Retidoponera."
+      }
+    },
+    "5": {
+      "fr": "Ce sont deux espèces de fourmis endémiques de Neville-Caldenny.",
+      "time": "30.0-33.0s",
+      "translations": {
+        "en": "They are two endemic species of ants of Neville-Caldenny.",
+        "es": "Son dos especies de hormigas endémicas de Neville-Caldenny."
+      }
+    },
+    "6": {
+      "fr": "J'ai eu la chance de pouvoir étudier les fourmis pendant nombreuses années",
+      "time": "33.0-37.0s",
+      "translations": {
+        "en": "I've had the chance to study ants for many years.",
+        "es": "Tuve la suerte de poder estudiar hormigas durante muchos años."
+      }
+    },
+    "7": {
+      "fr": "et quelque chose qui m'a fasciné chez les fourmis, comme beaucoup d'entre vous,",
+      "time": "37.0-41.0s",
+      "translations": {
+        "en": "and something that fascinated me in the ants, like many of you,",
+        "es": "y algo que me fascinó en las hormigas, como muchos de ustedes,"
+      }
+    },
+    "8": {
+      "fr": "j'imagine, c'est l'autorganisation.",
+      "time": "41.0-43.0s",
+      "translations": {
+        "en": "I guess it's self-organization.",
+        "es": "Supongo que es la organización."
+      }
+    },
+    "9": {
+      "fr": "chez les fourmis, il n'y a pas de chef.",
+      "time": "43.0-45.0s",
+      "translations": {
+        "en": "In ants, there's no chief.",
+        "es": "En las hormigas, no hay jefe."
+      }
+    }
+  },
+  "0u7tTptBo9I": {
+    "0": {
+      "fr": "...",
+      "time": "0.0-17.0s",
+      "translations": {
+        "en": "...",
+        "es": "..."
+      }
+    },
+    "1": {
+      "fr": "Bonsoir.",
+      "time": "17.0-21.0s",
+      "translations": {
+        "en": "Good evening.",
+        "es": "Buenas noches."
+      }
+    },
+    "2": {
+      "fr": "Notre planète est recouverte à 70% d'océan.",
+      "time": "21.0-25.0s",
+      "translations": {
+        "en": "Our planet is 70% ocean covered.",
+        "es": "Nuestro planeta está cubierto por un 70% de océano."
+      }
+    },
+    "3": {
+      "fr": "Et pourtant étrangement, on a choisi de la plaie la Terre.",
+      "time": "25.0-29.0s",
+      "translations": {
+        "en": "And yet strangely, we have chosen Earth from the plague.",
+        "es": "Y sin embargo extrañamente, hemos elegido de la plaga la Tierra."
+      }
+    },
+    "4": {
+      "fr": "Le poète Étocotfoliam, c'est une vision bien plus objective et moins entrepose en trick.",
+      "time": "29.0-34.0s",
+      "translations": {
+        "en": "The poet Etocotfoliam, it is a much more objective vision and less stored in trick.",
+        "es": "El poeta Etocotfolim es una visión mucho más objetiva y menos almacena en trick."
+      }
+    },
+    "5": {
+      "fr": "Quand il dit que vu de l'espace, la planète est bleue, vu de l'espace,",
+      "time": "34.0-38.0s",
+      "translations": {
+        "en": "When he says that from space, the planet is blue, seen from space,",
+        "es": "Cuando dice que visto desde el espacio, el planeta es azul, visto desde el espacio,"
+      }
+    },
+    "6": {
+      "fr": "elle est le territoire non pas des hommes, mais des ballaines.",
+      "time": "38.0-42.0s",
+      "translations": {
+        "en": "It is the territory not of men, but of ballaines.",
+        "es": "Es territorio no de los hombres, sino de las balanas."
+      }
+    },
+    "7": {
+      "fr": "Et pourtant, on vient tous de l'océan.",
+      "time": "42.0-45.0s",
+      "translations": {
+        "en": "And yet, we all come from the ocean.",
+        "es": "Y sin embargo, todos somos del océano."
+      }
+    },
+    "8": {
+      "fr": "C'est le berceau de la vie, même si on l'a oublié.",
+      "time": "45.0-48.0s",
+      "translations": {
+        "en": "It's the cradle of life, even if we forgot it.",
+        "es": "Es la cuna de la vida, incluso si lo olvidamos."
+      }
+    },
+    "9": {
+      "fr": "L'océan est partout dans les glaciers, dans les rivières, dans les napfriatiques,",
+      "time": "48.0-53.0s",
+      "translations": {
+        "en": "The ocean is everywhere in glaciers, in rivers, in napfriatics,",
+        "es": "El océano está por todas partes en los glaciares, en los ríos, en los napfriáticos,"
+      }
+    }
+  }
+}
